@@ -28,6 +28,4 @@ Widget hiển thị từng ghi chú.
 
 Hiển thị danh sách ghi chú.
 
-🔹 add_note_screen.dart
-
 Form nhập ghi chú mới.
