@@ -1,16 +1,33 @@
-# w5
+Họ và tên: Nguyễn Thành Nhân 
 
-A new Flutter project.
+Mssv: 2224801030136
 
-## Getting Started
+📘 Note App – Exercise Week 5 (Flutter)
 
-This project is a starting point for a Flutter application.
+Ứng dụng ghi chú đơn giản được xây dựng bằng Flutter, sử dụng Provider để quản lý trạng thái.
+Bài này thực hiện theo yêu cầu của Exercise Week 5.
 
-A few resources to get you started if this is your first Flutter project:
+🚀 Tính năng
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+📝 Thêm ghi chú mới
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+❌ Xóa ghi chú
+
+📦 Quản lý trạng thái bằng Provider
+
+🏗 Tổ chức project theo mô hình chuẩn
+🧩 Mô tả ngắn gọn các file chính
+
+Model ghi chú (id, title, content).
+
+Quản lý danh sách ghi chú, thêm/xóa bằng Provider.
+
+Service xử lý tác vụ (mock API / future control).
+
+Widget hiển thị từng ghi chú.
+
+Hiển thị danh sách ghi chú.
+
+🔹 add_note_screen.dart
+
+Form nhập ghi chú mới.
